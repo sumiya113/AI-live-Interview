@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Live AI Interviewer
 
-# Run and deploy your AI Studio app
+A project to conduct live AI-powered interviews.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/12Jj_TUrcQGPOcwEwXd3ck3L7Jm30DF84
+- Real-time interview sessions
+- AI-driven question generation
+- Candidate response analysis
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- Node.js (v18+)
+- npm or yarn
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
+
+```bash
+git clone https://github.com/yourusername/live-ai-interviewer.git
+cd live-ai-interviewer
+npm install
+```
+
+### Running the App
+
+```bash
+npm start
+```
+
+## Usage
+
+1. Start the application.
+2. Access the web interface at `http://localhost:3000`.
+3. Begin a new interview session.
+
+## Contributing
+
+Pull requests are welcome. For major changes, open an issue first.
+
+## License
+
+[MIT](LICENSE)
