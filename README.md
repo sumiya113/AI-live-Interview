@@ -38,7 +38,3 @@ npm start
 ## Contributing
 
 Pull requests are welcome. For major changes, open an issue first.
-
-## License
-
-[MIT](LICENSE)
